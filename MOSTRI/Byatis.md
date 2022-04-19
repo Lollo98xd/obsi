@@ -1,3 +1,4 @@
+
 stats and lore
 ![[Pasted image 20220420003839.png]]
 <mark style="background: #FF5582A6;">ASPETTO</mark> 
@@ -5,4 +6,4 @@ stats and lore
 
 ![[Pasted image 20220420004645.png]]
 [[Byatis]] 
-#Boss/Mostri/
+#Boss/Mostri/BEG
