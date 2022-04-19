@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC/wewe.md",
+            "file": "PG/tua madre.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/wewe.md",
+                "file": "PG/tua madre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,11 @@
   },
   "active": "62caf294e65c73b6",
   "lastOpenFiles": [
-    "NPC/wewe.md",
-    "MOSTRI/mostro 1.md",
     "PG/tua madre.md",
     "Floating island.md",
+    "README.md",
+    "MOSTRI/mostro 1.md",
+    "NPC/wewe.md",
     "POSTI/torre.md"
   ]
 }
