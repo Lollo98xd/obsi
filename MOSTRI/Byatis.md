@@ -1,4 +1,4 @@
-`***BYATIS***`
+***BYATIS***
 
 stats and lore
 ![[Pasted image 20220420003839.png]]
@@ -6,5 +6,5 @@ stats and lore
 ![[Pasted image 20220420005302.png]]![[Pasted image 20220420003928.png]]
 
 ![[Pasted image 20220420004645.png]]
-[[Byatis]] 
+[[Byatis]] ![[Byatis.pdf]]
 #Boss/Mostri/BEG
