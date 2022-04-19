@@ -7,9 +7,11 @@
         "id": "62caf294e65c73b6",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Attachment/Byatis.pdf"
+            "file": "MOSTRI/Byatis.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachment/Byatis.pdf",
+                "file": "MOSTRI/Byatis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +89,8 @@
   },
   "active": "62caf294e65c73b6",
   "lastOpenFiles": [
-    "Attachment/Byatis.pdf",
     "MOSTRI/Byatis.md",
+    "Attachment/Byatis.pdf",
     "Floating island.md",
     "NPC/wewe.md",
     "PG/tua madre.md",
