@@ -5,3 +5,4 @@ stats and lore
 
 ![[Pasted image 20220420004645.png]]
 [[Byatis]] 
+#Boss/Mostri/
