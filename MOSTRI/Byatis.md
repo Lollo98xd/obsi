@@ -3,5 +3,5 @@ stats and lore
 come fatto
 ![[Pasted image 20220420003928.png]]
 
-![[Pasted image 20220420004000.png]]
+![[Pasted image 20220420004645.png]]
 [[Byatis]]
