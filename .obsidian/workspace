@@ -7,9 +7,11 @@
         "id": "62caf294e65c73b6",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Attachment/Pasted image 20220420003839.png"
+            "file": "MOSTRI/Byatis.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachment/Pasted image 20220420003839.png",
+                "file": "MOSTRI/Byatis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,13 +89,13 @@
   },
   "active": "62caf294e65c73b6",
   "lastOpenFiles": [
+    "MOSTRI/Byatis.md",
     "Attachment/Pasted image 20220420003839.png",
+    "Attachment/Pasted image 20220420003928.png",
     "Attachment/Pasted image 20220420004645.png",
     "Attachment/Pasted image 20220420004000.png",
-    "MOSTRI/Byatis.md",
     "![[Pasted image 20220420003928.png.md",
     "Attachment/Byatis.pdf",
-    "Attachment/Pasted image 20220420003928.png",
     "Floating island.md",
     "NPC/wewe.md",
     "PG/tua madre.md"
