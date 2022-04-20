@@ -7,8 +7,12 @@
         "id": "62caf294e65c73b6",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "NPC/wewe.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NPC/wewe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,10 +88,10 @@
   },
   "active": "62caf294e65c73b6",
   "lastOpenFiles": [
-    "Attachment/Pasted image 20220420005302.png",
-    "MOSTRI/Byatis.md",
-    "PG/prova.md",
     "NPC/wewe.md",
+    "MOSTRI/Byatis.md",
+    "Attachment/Pasted image 20220420005302.png",
+    "PG/prova.md",
     "MOSTRI/mostro 1.md",
     "Floating island.md",
     "README.md",
