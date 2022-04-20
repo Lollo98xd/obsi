@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MOSTRI/Byatis.md",
-            "mode": "source",
+            "file": "obsi/Floating island.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOSTRI/Byatis.md",
+                "file": "obsi/Floating island.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "62caf294e65c73b6",
   "lastOpenFiles": [
+    "obsi/Floating island.md",
     "MOSTRI/Byatis.md",
+    "Floating island.md",
     "Attachment/byatisicon.png",
     "Attachment/Pasted image 20220420004645.png",
     "Attachment/Pasted image 20220420005302.png",
-    "obsi/Floating island.md",
-    "Floating island.md",
     "conflict-files-obsidian-git.md",
     "NPC/wewe.md",
     "PG/prova.md",
