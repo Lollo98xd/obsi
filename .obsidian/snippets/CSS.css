@@ -1,7 +1,8 @@
 .titolo {
   font-size: 48px;
+  font-weight: 900;
   background: -webkit-linear-gradient(#eee, #7A5631);
-  
+  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 	text-align: center;
 }
