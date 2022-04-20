@@ -5,6 +5,7 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 	text-align: center;
+	text-shadow: 2px 20px 20px #333;
 }
 .sottotitolo {
   font-size: 32px;
