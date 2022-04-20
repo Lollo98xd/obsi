@@ -1,5 +1,7 @@
 .sottotitolo {
-    text-align: center;
-	font-weight: 900;
-	font-size: 36;
+  font-size: 32px;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
 }
