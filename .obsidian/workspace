@@ -7,9 +7,11 @@
         "id": "62caf294e65c73b6",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Attachment/byatisicon.png"
+            "file": "obsi/Floating island.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -47,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachment/byatisicon.png",
+                "file": "obsi/Floating island.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +88,8 @@
   },
   "active": "62caf294e65c73b6",
   "lastOpenFiles": [
-    "Attachment/byatisicon.png",
     "obsi/Floating island.md",
+    "Attachment/byatisicon.png",
     "MOSTRI/Byatis.md",
     "Floating island.md",
     "Attachment/Pasted image 20220420004645.png",
