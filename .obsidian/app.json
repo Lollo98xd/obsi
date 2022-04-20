@@ -1,5 +1,6 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "attachmentFolderPath": "Attachment"
+  "attachmentFolderPath": "Attachment",
+  "alwaysUpdateLinks": true
 }
