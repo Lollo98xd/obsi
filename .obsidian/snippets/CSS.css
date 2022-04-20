@@ -1,14 +1,15 @@
 .titolo {
-  font-size: 32px;
+  font-size: 48px;
   background: -webkit-linear-gradient(#eee, #7A5631);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-
+	text-align: center;
 }
 .sottotitolo {
   font-size: 32px;
   background: -webkit-linear-gradient(#eee, #3E7A31);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  text-align: center
 
 }
