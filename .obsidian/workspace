@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MOSTRI/Byatis.md",
+            "file": "obsi/Floating island.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOSTRI/Byatis.md",
+                "file": "obsi/Floating island.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "62caf294e65c73b6",
   "lastOpenFiles": [
+    "obsi/Floating island.md",
     "MOSTRI/Byatis.md",
     "Attachment/Pasted image 20220420005302.png",
     "Floating island.md",
