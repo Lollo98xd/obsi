@@ -38,7 +38,7 @@
     --text-title-h4:              var(--green);
     --text-title-h5:              var(--purple);
     --text-title-h6:              var(--orange);
-    --text-link:                  var(--frost0);
+    --text-link:                  var(--FFFFF);
     --text-a:                     var(--frost3);
     --text-a-hover:               var(--frost2);
     --text-mark:                  rgba(136, 192, 208, 0.3); /* frost1 */
