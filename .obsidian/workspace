@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsi/POSTI/torre.md",
+            "file": "obsi/PG/prova.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsi/POSTI/torre.md",
+                "file": "obsi/PG/prova.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,11 @@
   },
   "active": "62caf294e65c73b6",
   "lastOpenFiles": [
+    "obsi/PG/prova.md",
     "obsi/POSTI/torre.md",
     "obsi/MOSTRI/Byatis.md",
     "MOSTRI/Byatis.md",
     "obsi/Floating island.md",
-    "obsi/PG/prova.md",
     "Attachment/byatisicon.png",
     "Floating island.md",
     "Attachment/Pasted image 20220420004645.png",
