@@ -1,2 +1,2 @@
 # Corol
-capo banda della  [[Tribù dei Svezzacollo]]
+capo banda della  [[Tribù dei SvezzaFulmini]]

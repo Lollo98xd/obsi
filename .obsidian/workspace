@@ -7,8 +7,12 @@
         "id": "62caf294e65c73b6",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "GRUPPI/Tribù dei SvezzaFulmini.md",
+            "mode": "source",
+            "source": false
+          }
         }
       },
       {
@@ -77,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PG/Clavicus.md",
+                "file": "GRUPPI/Tribù dei SvezzaFulmini.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,11 +99,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9f8f6ed25a853d0d",
+  "active": "62caf294e65c73b6",
   "lastOpenFiles": [
+    "GRUPPI/Tribù dei SvezzaFulmini.md",
     "PG/Clavicus.md",
     "NPC/Corol.md",
-    "GRUPPI/Tribù dei Svezzacollo.md",
     "POSTI/torre.md",
     "Attachment/byatisicon.png",
     "Attachment/Pasted image 20220420005302.png",
