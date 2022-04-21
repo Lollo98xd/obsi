@@ -29,3 +29,6 @@ padding-left:5%;
 .internal-link {
     color: green;
 }
+.theme-dark
+{--text-link: #99ff99;
+}
