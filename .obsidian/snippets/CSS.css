@@ -25,3 +25,6 @@ font-weight: 900;
 font-weight: 900;
 padding-left:5%;
 }
+.cm-s-obsidian span.cm-inline-code{
+color: var(–text-normal);
+}
