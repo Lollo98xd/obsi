@@ -25,3 +25,6 @@ font-weight: 900;
 font-weight: 900;
 padding-left:5%;
 }
+.markdown-preview-view .internal-link {
+    color: green;
+}
