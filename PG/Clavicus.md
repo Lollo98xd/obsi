@@ -5,4 +5,5 @@
  ex membro della [[Tribù degli SvezzaFulmini]] 
  cacciato dopo aver ????
  #### goal: 
+  - ?????
 #svezzaFulmini/pg
