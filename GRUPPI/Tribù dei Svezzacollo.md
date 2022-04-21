@@ -1,3 +1,3 @@
 # SvezzaCollo
-<span class="bullets">posizione:</span> tra picchi
+<span class="bullet">posizione:</span> tra altopiano del re e 
 awdawd
