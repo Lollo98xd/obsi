@@ -7,8 +7,10 @@
         "id": "62caf294e65c73b6",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "image",
+          "state": {
+            "file": "Attachment/byatisicon.png"
+          }
         }
       }
     ],
@@ -65,6 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Attachment/byatisicon.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,15 +86,15 @@
   },
   "active": "62caf294e65c73b6",
   "lastOpenFiles": [
-    "GRUPPI/Tribù dei Svezzacollo.md",
+    "Attachment/byatisicon.png",
+    "Attachment/Pasted image 20220420005302.png",
+    "obsi/Attachment/Pasted image 20220420003928.png",
+    "obsi/Attachment/Pasted image 20220420003839.png",
     "obsi/NPC/Korol.md",
+    "GRUPPI/Tribù dei Svezzacollo.md",
     "obsi/PG/Clavicus.md",
     "obsi/POSTI/torre.md",
     "obsi/MOSTRI/Byatis.md",
-    "MOSTRI/Byatis.md",
-    "obsi/Floating island.md",
-    "Attachment/byatisicon.png",
-    "Floating island.md",
-    "Attachment/Pasted image 20220420004645.png"
+    "MOSTRI/Byatis.md"
   ]
 }
