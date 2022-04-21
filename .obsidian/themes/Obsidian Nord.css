@@ -162,7 +162,7 @@ a:hover,
 .cm-hmd-internal-link:hover,
 .cm-url
 {
-    color: var(--text-a-hover) !important;
+    color: Aqua !important;
     text-decoration: none !important;
 }
 
