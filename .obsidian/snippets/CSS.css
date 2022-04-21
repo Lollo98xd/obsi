@@ -26,9 +26,18 @@ font-weight: 900;
 padding-left:5%;
 --text-link: var(--frost0);
 }
-.internal-link {
-    color: green;
+
+a,
+.cm-hmd-internal-link
+{
+    color: cyan !important;
+    text-decoration: none !important;
 }
-.theme-dark
-{--text-link: #99ff99;
+
+a:hover,
+.cm-hmd-internal-link:hover,
+.cm-url
+{
+    color: DarkCyan !important;
+    text-decoration: none !important;
 }
