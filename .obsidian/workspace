@@ -10,6 +10,30 @@
           "type": "graph",
           "state": {}
         }
+      },
+      {
+        "id": "9729d3f2646c668f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MOSTRI/Byatis.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "2aca102d9aa9881c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MOSTRI/Byatis.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -65,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MOSTRI/Byatis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,12 +106,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "62caf294e65c73b6",
+  "active": "9729d3f2646c668f",
   "lastOpenFiles": [
+    "MOSTRI/Byatis.md",
     "obsi/Floating island.md",
     "obsi/PG/prova.md",
     "Attachment/byatisicon.png",
-    "MOSTRI/Byatis.md",
     "Floating island.md",
     "Attachment/Pasted image 20220420004645.png",
     "Attachment/Pasted image 20220420005302.png",
