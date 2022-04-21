@@ -4,7 +4,7 @@
   - ##### nome posizione:
     [[GolaSecca]]
 #### membri
-- [[Korol]] <b>capo tribù<b>
+- [[Corol]] <b>capo tribù<b>
 - 
 
 awd
