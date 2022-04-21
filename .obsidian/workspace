@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NPC/Korol.md",
+            "file": "GRUPPI/Tribù dei Svezzacollo.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/Korol.md",
+                "file": "GRUPPI/Tribù dei Svezzacollo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "62caf294e65c73b6",
   "lastOpenFiles": [
+    "GRUPPI/Tribù dei Svezzacollo.md",
     "NPC/Korol.md",
     "PG/Clavicus.md",
     "POSTI/torre.md",
@@ -95,7 +96,6 @@
     "Attachment/Pasted image 20220420005302.png",
     "obsi/Attachment/Pasted image 20220420003928.png",
     "obsi/Attachment/Pasted image 20220420003839.png",
-    "GRUPPI/Tribù dei Svezzacollo.md",
     "obsi/POSTI/torre.md",
     "obsi/MOSTRI/Byatis.md"
   ]
