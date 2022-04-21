@@ -5,7 +5,8 @@
     [[GolaSecca]]
 #### membri
 - [[Corol]] <b>capo tribù<b>
-- [[Banos]] <
+- [[Banos]] <b>Augure<b>
+- 
 
 awd
 	
