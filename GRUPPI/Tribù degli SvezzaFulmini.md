@@ -6,7 +6,7 @@
 #### membri
 - [[Corol]] <b>capo tribù<b>
 - [[Banos]] <b>Augure<b>
-- 
+- [[Deumic]]<
 
 awd
 	
