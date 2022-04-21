@@ -10,31 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "GRUPPI/Tribù degli SvezzaFulmini.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "4e258d77b31d8fb8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NPC/Deumic.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "4f733b6cb01d3693",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "NPC/Banos.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -114,14 +90,14 @@
   "active": "62caf294e65c73b6",
   "lastOpenFiles": [
     "GRUPPI/Tribù degli SvezzaFulmini.md",
-    "PG/Clavicus.md",
-    "NPC/Corol.md",
-    "NPC/Deumic.md",
     "NPC/Banos.md",
+    "Floating island.md",
+    "PG/Clavicus.md",
+    "NPC/Deumic.md",
+    "MOSTRI/Byatis.md",
+    "NPC/Corol.md",
     "POSTI/torre.md",
     "Attachment/byatisicon.png",
-    "Attachment/Pasted image 20220420005302.png",
-    "obsi/Attachment/Pasted image 20220420003928.png",
-    "obsi/Attachment/Pasted image 20220420003839.png"
+    "Attachment/Pasted image 20220420005302.png"
   ]
 }
