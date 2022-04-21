@@ -4,7 +4,7 @@
   - ##### nome posizione:
     [[GolaSecca]]
 #### membri
-<div class="bulletin">awdwa<div>
+- 
 
 awd
 	
