@@ -2,5 +2,11 @@
   "legacyEditor": false,
   "livePreview": true,
   "attachmentFolderPath": "Attachment",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "it",
+    "en-GB"
+  ],
+  "useTab": false
 }
