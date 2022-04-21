@@ -2,6 +2,7 @@
 ![[Pasted image 20220421113636.png]]
 
 
- exe membro[[Tribù degli SvezzaFulmini]] 
+ ex membro della [[Tribù degli SvezzaFulmini]] 
  cacciato dopo aver ????
+ #### goal: 
 #svezzaFulmini/pg
