@@ -1,2 +1,2 @@
 # SvezzaCollo
-##### posizione: 
+<span class="bullets">posizione:<span> tra picchi
