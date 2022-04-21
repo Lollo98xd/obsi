@@ -24,6 +24,7 @@ font-weight: 900;
   font-size: 18px;
 font-weight: 900;
 padding-left:5%;
+--text-link: var(--frost0);
 }
 .internal-link {
     color: green;
