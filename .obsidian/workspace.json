@@ -23,9 +23,11 @@
             "id": "6eff5fc6b7f5ab85",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "GRUPPI/Tribù degli SvezzaFulmini.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,15 +110,15 @@
   },
   "active": "6eff5fc6b7f5ab85",
   "lastOpenFiles": [
-    "GRUPPI/Tribù degli SvezzaFulmini.md",
-    "Picchi d'ombra.md",
+    "MOSTRI/Byatis.md",
+    "NPC/Corol.md",
+    "NPC/Deumic.md",
+    "PG/Clavicus.md",
+    "POSTI/torre.md",
     "Altopiano del re.md",
     "GolaSecca.md",
-    "NPC/Banos.md",
     "Floating island.md",
-    "PG/Clavicus.md",
-    "NPC/Deumic.md",
-    "MOSTRI/Byatis.md",
-    "NPC/Corol.md"
+    "GRUPPI/Tribù degli SvezzaFulmini.md",
+    "Picchi d'ombra.md"
   ]
 }
