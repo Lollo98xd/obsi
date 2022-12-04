@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GRUPPI/Tribù degli SvezzaFulmini.md",
+                "file": "Altopiano del re.md",
                 "mode": "preview",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GRUPPI/Tribù degli SvezzaFulmini.md",
+                "file": "Altopiano del re.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +107,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "08c1f55fda4a070a",
+  "active": "62caf294e65c73b6",
   "lastOpenFiles": [
+    "Floating island.md",
+    "Picchi d'ombra.md",
+    "GolaSecca.md",
+    "POSTI/torre.md",
+    "PG/Clavicus.md",
+    "Altopiano del re.md",
+    "GRUPPI/Tribù degli SvezzaFulmini.md",
     "MOSTRI/Byatis.md",
     "NPC/Corol.md",
-    "NPC/Deumic.md",
-    "PG/Clavicus.md",
-    "POSTI/torre.md",
-    "Altopiano del re.md",
-    "GolaSecca.md",
-    "Floating island.md",
-    "GRUPPI/Tribù degli SvezzaFulmini.md",
-    "Picchi d'ombra.md"
+    "NPC/Deumic.md"
   ]
 }
