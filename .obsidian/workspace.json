@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Picchi d'ombra.md",
+                "file": "GRUPPI/Tribù degli SvezzaFulmini.md",
                 "mode": "preview",
                 "source": false
               }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Picchi d'ombra.md",
+                "file": "GRUPPI/Tribù degli SvezzaFulmini.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,15 +109,15 @@
   },
   "active": "62caf294e65c73b6",
   "lastOpenFiles": [
-    "Floating island.md",
-    "GolaSecca.md",
-    "Altopiano del re.md",
-    "GRUPPI/Tribù degli SvezzaFulmini.md",
-    "Picchi d'ombra.md",
+    "MOSTRI/Byatis.md",
+    "NPC/Banos.md",
+    "NPC/Corol.md",
+    "NPC/Deumic.md",
     "POSTI/torre.md",
     "PG/Clavicus.md",
-    "MOSTRI/Byatis.md",
-    "NPC/Corol.md",
-    "NPC/Deumic.md"
+    "Floating island.md",
+    "Altopiano del re.md",
+    "Picchi d'ombra.md",
+    "GolaSecca.md"
   ]
 }
